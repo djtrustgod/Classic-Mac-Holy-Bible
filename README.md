@@ -1,12 +1,8 @@
 # Classic Mac Holy Bible (Filemaker)
 
-XEphem is an interactive astronomy program for all UNIX platforms,
-written and maintained by Elwood Downey over more than thirty years
-1990–2021 and now generously released under the MIT License.
+The Classic Mac Holy Bible addresses the lack of a full-text searchable Holy Bible application for the classic 68K Macintoshes.
 
-![Sky view](/GUI/xephem/help/png/sky-view.png?raw=true)
-
-There are more screenshots at bottom of this README.
+![Home Screen](/Help/Screens/Home-plain.png?raw=true)
 
 ## Documentation
 
