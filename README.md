@@ -1,1 +1,0 @@
-# Classic Mac Holy Bible
