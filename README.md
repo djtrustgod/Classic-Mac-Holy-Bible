@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/XEphem/XEphem)
 ![GitHub Release Date](https://img.shields.io/github/release-date/XEphem/XEphem)
@@ -75,3 +76,6 @@ for building an XEphem RPM package.
 ![Moon view](/GUI/xephem/help/png/moon.png?raw=true)
 
 ![Earth view](/GUI/xephem/help/png/earth.png?raw=true)
+=======
+# Classic Mac Holy Bible
+>>>>>>> 1e56535c40e30e8bb490a55233d9428b21a43b16
