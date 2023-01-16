@@ -1,4 +1,4 @@
-# Runtime Files for Classic Mac Holy Bible (Filemaker)
+# Source Files for Classic Mac Holy Bible (Filemaker)
 
 These archive files in various formats contain the source Filemaker 3 for Macintosh database including all layouts and scripts.  [Filemaker 3 for Mac is available on the Macintosh Garden](https://macintoshgarden.org/apps/claris-filemaker-pro-30cav4-30cav5-update)
 
