@@ -6,7 +6,7 @@ This basic framework could be used to create a fully searchable classic Macintos
 
 ## Prerequisites
 
-System 6.0.8 or later, Mac Plus or later, 4MB RAN, 20MB storage free
+System 6.0.8 or later, Mac Plus or later, 4MB RAM, 20MB storage free
 
 ## How to Use
 
