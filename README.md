@@ -2,7 +2,7 @@
 
 The Classic Mac Holy Bible provides a full-text searchable Holy Bible application for the classic Macintoshes that can run on System 6 to 9, from a Mac Plus to a PowerMac G4 even running OS X with the Classic Environment.  The Bible can operate as a stand-alone classic Mac application via the [Filemaker 3 runtime here](https://github.com/djtrustgod/Classic-Mac-Holy-Bible/tree/main/ClassicMac/Runtime). Also the full source [Filemaker 3 source database is here](https://github.com/djtrustgod/Classic-Mac-Holy-Bible/tree/main/ClassicMac/Source) for those who wish to fork and improve the source, or create versions for other classic operating systems.
 
-This basic framework could be used to create a fully searchable classic Macintosh application for any other type of large document that is structured in a similar manner. It would be fairly trival to create versions for other translations or editions.
+This basic framework could be used to create a fully searchable classic Macintosh application for any other type of large document that is structured in a similar manner. It would be fairly easy to create versions for other document translations or editions.
 
 This project is also available on [Macintosh Garden](https://macintoshgarden.org/apps/classic-mac-holy-bible-filemaker)
 
