@@ -8,6 +8,8 @@ This basic framework could be used to create a fully searchable classic Macintos
 
 System 6.0.8 or later, Mac Plus or later, 4MB RAN, 20MB storage free
 
+## How to Use
+
 ![Home Screen Help](https://github.com/djtrustgod/Classic-Mac-Holy-Bible/blob/main/ClassicMac/Help/Screens/Help-Home.Final.png?raw=true)
 
 ![Search Screen Help](https://github.com/djtrustgod/Classic-Mac-Holy-Bible/blob/main/ClassicMac/Help/Screens/Help-Search.Final.png?raw=true)
