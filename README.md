@@ -9,7 +9,7 @@ This project is also available on [Macintosh Garden](https://macintoshgarden.org
 ## Prerequisites
 
 System 6.0.8 or later, Mac Plus or later, 4MB RAM, 20MB storage free
-(Note: For 4MB Classic Macs, it's recommended you run System 6.0.8, disable multifinder, and run minimal extensions to free as much memory as posssible, as the application needs 3MB to run)
+(Note: For 4MB Classic Macs, it's recommended you run System 6.0.8, disable multifinder, and run minimal extensions to free as much memory as possible, as the application needs 3MB to run)
 
 ## How to Use
 
