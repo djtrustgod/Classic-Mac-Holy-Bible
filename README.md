@@ -6,6 +6,7 @@ This basic framework could be used to create a fully searchable classic Macintos
 
 ## Downloads
 See the [Releases](https://github.com/djtrustgod/Classic-Mac-Holy-Bible/releases)
+
 This project is also available on [Macintosh Garden](https://macintoshgarden.org/apps/classic-mac-holy-bible-filemaker)
 
 ## Prerequisites
