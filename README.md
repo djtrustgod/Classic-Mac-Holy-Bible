@@ -4,6 +4,8 @@ The Classic Mac Holy Bible provides a full-text searchable Holy Bible applicatio
 
 This basic framework could be used to create a fully searchable classic Macintosh application for any other type of large document that is structured in a similar manner. It would be fairly easy to create versions for other document translations or editions.
 
+## Downloads
+See the [Releases](https://github.com/djtrustgod/Classic-Mac-Holy-Bible/releases)
 This project is also available on [Macintosh Garden](https://macintoshgarden.org/apps/classic-mac-holy-bible-filemaker)
 
 ## Prerequisites
