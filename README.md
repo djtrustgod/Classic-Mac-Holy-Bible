@@ -1,4 +1,4 @@
-# Classic Mac Holy Bible (FileMaker)
+# Classic Mac Holy Bible
 
 The Classic Mac Holy Bible provides a full-text searchable Holy Bible application for the classic Macintoshes that can run on System 6 to MacOS 9, from a Mac Plus 68K to a PowerMac G4 even running OS X with the Classic Environment.  The Bible can operate as a stand-alone classic Mac application and or as a FileMaker database for those who wish to fork and improve the source, or create versions for other classic operating systems.
 
