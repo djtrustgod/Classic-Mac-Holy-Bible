@@ -1,6 +1,6 @@
 # Classic Mac Holy Bible
 
-The Classic Macintosh Holy Bible provides a full-text searchable Holy Bible application for the classic Macintoshes that can run on System 6 to MacOS 9, from a Mac Plus 68K to a PowerMac G4 even running OS X with the Classic Environment.  Claasic Mac Bible is available as a stand-alone classic Mac 68k application and or as a FileMaker database for those who wish to fork and improve the source, or create versions for other classic operating systems.
+The Classic Macintosh Holy Bible provides a full-text searchable Holy Bible application for the classic Macintoshes that can run on System 6 to MacOS 9, from a Mac Plus 68K to a PowerMac G4 even running OS X with the Classic Environment.  Claasic Mac Bible is available as a stand-alone classic Mac 68k application and or as a FileMaker 3 or later database for those who wish to fork and improve the source, or create versions for other classic operating systems.
 
 This basic framework could be used to create a fully searchable classic Macintosh application for any other type of large document that is structured in a similar manner. It would be fairly easy to create versions for other document translations or editions.
 
